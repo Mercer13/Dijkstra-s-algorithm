@@ -1,0 +1,7 @@
+C:\Users\apiva\OneDrive\Рабочий стол\Labka 4 par alg\Labka 4 par alg\bin\Debug\Labka 4 par alg.exe.config
+C:\Users\apiva\OneDrive\Рабочий стол\Labka 4 par alg\Labka 4 par alg\bin\Debug\Labka 4 par alg.exe
+C:\Users\apiva\OneDrive\Рабочий стол\Labka 4 par alg\Labka 4 par alg\bin\Debug\Labka 4 par alg.pdb
+C:\Users\apiva\OneDrive\Рабочий стол\Labka 4 par alg\Labka 4 par alg\obj\Debug\Labka 4 par alg.csprojAssemblyReference.cache
+C:\Users\apiva\OneDrive\Рабочий стол\Labka 4 par alg\Labka 4 par alg\obj\Debug\Labka 4 par alg.csproj.CoreCompileInputs.cache
+C:\Users\apiva\OneDrive\Рабочий стол\Labka 4 par alg\Labka 4 par alg\obj\Debug\Labka 4 par alg.exe
+C:\Users\apiva\OneDrive\Рабочий стол\Labka 4 par alg\Labka 4 par alg\obj\Debug\Labka 4 par alg.pdb
